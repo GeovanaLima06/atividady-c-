@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Desktop\atividady-c#\obj\Debug\net6.0\atividady-c#.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\atividady-c#\obj\Debug\net6.0\atividady-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\atividady-c#\obj\Debug\net6.0\atividady-c#.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\atividady-c#\obj\Debug\net6.0\atividady-c#.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\atividady-c#\obj\Debug\net6.0\atividady-c#.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\atividady-c#\bin\Debug\net6.0\atividady-c#.exe
+C:\Users\ALUNO\Desktop\atividady-c#\bin\Debug\net6.0\atividady-c#.deps.json
+C:\Users\ALUNO\Desktop\atividady-c#\bin\Debug\net6.0\atividady-c#.runtimeconfig.json
+C:\Users\ALUNO\Desktop\atividady-c#\bin\Debug\net6.0\atividady-c#.dll
+C:\Users\ALUNO\Desktop\atividady-c#\bin\Debug\net6.0\atividady-c#.pdb
+C:\Users\ALUNO\Desktop\atividady-c#\obj\Debug\net6.0\atividady-c#.dll
+C:\Users\ALUNO\Desktop\atividady-c#\obj\Debug\net6.0\refint\atividady-c#.dll
+C:\Users\ALUNO\Desktop\atividady-c#\obj\Debug\net6.0\atividady-c#.pdb
+C:\Users\ALUNO\Desktop\atividady-c#\obj\Debug\net6.0\atividady-c#.genruntimeconfig.cache
+C:\Users\ALUNO\Desktop\atividady-c#\obj\Debug\net6.0\ref\atividady-c#.dll
